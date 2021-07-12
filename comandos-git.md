@@ -14,9 +14,13 @@
 
 *git init*
 
-## Adicionando arquivo
+## Adicionando arquivo específico
 
 *git add **arquivo***
+
+## Adicionando todos os arquivos
+
+*git add .*
 
 # Verificando status
 
@@ -38,6 +42,4 @@
 
 *git push -u origin **branch***
 
-
-
-fatal: Could not read from remote repository.
+*git push origin main* 
